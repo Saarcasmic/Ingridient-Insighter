@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/DharmaWarrior/Food-Recipe/assets/97218268/55ee8049-4701-43d2-9b65-cf208a705bd7" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">Food Recipe Teller</h3>
+  <h3 align="center">Ingredient-Insighter</h3>
 </p>
 
 
